@@ -4,6 +4,6 @@
 Noturno.
 
 
-[![Build Status](https://travis-ci.org/feerpessoa/01-calculadora-noturno.svg?branch=master)](https://travis-ci.org/feerpessoa/01-calculadora-noturno)
 
-[![Coverage Status](https://img.shields.io/coveralls/feerpessoa/01-calculadora-noturno.svg)](https://coveralls.io/r/feerpessoa/01-calculadora-noturno?branch=master)
+
+[![Coverage Status](https://coveralls.io/repos/lucas9153/Calculadora/badge.svg)](https://coveralls.io/r/lucas9153/Calculadora)
